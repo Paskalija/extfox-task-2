@@ -1,0 +1,37 @@
+.box-centerside {
+  width: 700px;
+  margin: 0 auto;
+  padding: 3px 15px;
+  font-size: 33px;
+  background:rgb(255,193,7);
+  text-align: center;
+}
+
+.text {
+  font-style: italic;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  color: black;
+}
+
+.author {
+  font-style: italic;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  color: black;
+}
+
+.new-quote {
+  border: none;
+  font-size: 33px;
+}
+
+.header {
+  gap: 700px;
+}
+
+.nav-button {
+  width: 300px;
+ 
+}
+.morecards{
+  height: 50px;
+}
